@@ -1,2 +1,2 @@
 # My-iOS-Apps
-My iOS applications
+My iOS applications during retraining on iOS Developer
