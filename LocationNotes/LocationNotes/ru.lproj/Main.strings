@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3WR-MP-htO"; */
+"3WR-MP-htO.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "3lg-bh-F23"; */
+"3lg-bh-F23.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6YB-Mb-j4w"; */
+"6YB-Mb-j4w.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "8oM-yh-jjE"; */
+"8oM-yh-jjE.text" = "Subtitle";
+
+/* Class = "UITextField"; text = "Name note"; ObjectID = "9dc-ie-pQ0"; */
+"9dc-ie-pQ0.text" = "Name note";
+
+/* Class = "UINavigationItem"; title = "Select folder"; ObjectID = "AsE-az-Sh8"; */
+"AsE-az-Sh8.title" = "Select folder";
+
+/* Class = "UINavigationItem"; title = "Name folder"; ObjectID = "D65-zG-f6H"; */
+"D65-zG-f6H.title" = "Название папки";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "OGp-58-Irp"; */
+"OGp-58-Irp.text" = "Subtitle";
+
+/* Class = "UITabBarItem"; title = "Folders"; ObjectID = "OdN-UJ-2Vy"; */
+"OdN-UJ-2Vy.title" = "Папки";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "QwY-8g-E7g"; */
+"QwY-8g-E7g.title" = "Map";
+
+/* Class = "UINavigationItem"; title = "Notes"; ObjectID = "SJb-8g-6zd"; */
+"SJb-8g-6zd.title" = "Notes";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "VX2-Lr-VHp"; */
+"VX2-Lr-VHp.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "WVt-jZ-HkJ"; */
+"WVt-jZ-HkJ.text" = "Title";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "b83-ur-xdH"; */
+"b83-ur-xdH.text" = "Location";
+
+/* Class = "UINavigationItem"; title = "MAP"; ObjectID = "e9L-y8-ddd"; */
+"e9L-y8-ddd.title" = "Карта";
+
+/* Class = "UILabel"; text = "name_folder"; ObjectID = "gfz-Mk-AOM"; */
+"gfz-Mk-AOM.text" = "name_folder";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "jbb-Ad-lGe"; */
+"jbb-Ad-lGe.title" = "Карта";
+
+/* Class = "UITabBarItem"; title = "Notes"; ObjectID = "nyI-R5-I3s"; */
+"nyI-R5-I3s.title" = "Заметки";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "scR-M0-Egw"; */
+"scR-M0-Egw.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Folders"; ObjectID = "vxI-ae-xwE"; */
+"vxI-ae-xwE.title" = "Папки";
+
+/* Class = "UINavigationItem"; title = "Name note"; ObjectID = "wdL-wn-5cG"; */
+"wdL-wn-5cG.title" = "Name note";
+
+/* Class = "UILabel"; text = "Folder"; ObjectID = "zan-nn-rnN"; */
+"zan-nn-rnN.text" = "Folder";
