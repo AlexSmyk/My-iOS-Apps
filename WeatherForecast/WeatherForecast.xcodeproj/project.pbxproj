@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8424CEB2934895500D07D3B /* WeatherDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8424CEA2934895500D07D3B /* WeatherDataManager.swift */; };
+		B8424CED2934897100D07D3B /* Assembly.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8424CEC2934897100D07D3B /* Assembly.swift */; };
+		B8424CEF2934898D00D07D3B /* WeatherPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8424CEE2934898D00D07D3B /* WeatherPresenter.swift */; };
 		B8786833292A911000B5C258 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786832292A911000B5C258 /* AppDelegate.swift */; };
 		B8786835292A911000B5C258 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786834292A911000B5C258 /* SceneDelegate.swift */; };
 		B878683C292A911300B5C258 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B878683B292A911300B5C258 /* Assets.xcassets */; };
@@ -16,9 +19,6 @@
 		B8786866292A953800B5C258 /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786862292A953800B5C258 /* WeatherView.swift */; };
 		B8786867292A953800B5C258 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786863292A953800B5C258 /* WeatherViewController.swift */; };
 		B8786868292A953800B5C258 /* WeatherViewOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786864292A953800B5C258 /* WeatherViewOutput.swift */; };
-		B878686A292A955600B5C258 /* Assembly.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786869292A955600B5C258 /* Assembly.swift */; };
-		B878686E292A958400B5C258 /* WeatherDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B878686C292A958400B5C258 /* WeatherDataManager.swift */; };
-		B8786870292A959200B5C258 /* WeatherPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B878686F292A959200B5C258 /* WeatherPresenter.swift */; };
 		B8786873292AA48200B5C258 /* DailyTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786872292AA48100B5C258 /* DailyTableCell.swift */; };
 		B8786876292AAC8C00B5C258 /* Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8786875292AAC8C00B5C258 /* Constraints.swift */; };
 		B885D1682931019D002BFA6B /* TenDaysForecastHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = B885D1672931019D002BFA6B /* TenDaysForecastHeader.swift */; };
@@ -35,6 +35,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B8424CEA2934895500D07D3B /* WeatherDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherDataManager.swift; sourceTree = "<group>"; };
+		B8424CEC2934897100D07D3B /* Assembly.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Assembly.swift; sourceTree = "<group>"; };
+		B8424CEE2934898D00D07D3B /* WeatherPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherPresenter.swift; sourceTree = "<group>"; };
 		B878682F292A911000B5C258 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8786832292A911000B5C258 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8786834292A911000B5C258 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -46,9 +49,6 @@
 		B8786862292A953800B5C258 /* WeatherView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
 		B8786863292A953800B5C258 /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		B8786864292A953800B5C258 /* WeatherViewOutput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewOutput.swift; sourceTree = "<group>"; };
-		B8786869292A955600B5C258 /* Assembly.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Assembly.swift; path = ../../WeatherApp/Assembly.swift; sourceTree = "<group>"; };
-		B878686C292A958400B5C258 /* WeatherDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeatherDataManager.swift; path = ../../../WeatherApp/Model/WeatherDataManager.swift; sourceTree = "<group>"; };
-		B878686F292A959200B5C258 /* WeatherPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WeatherPresenter.swift; path = ../../../WeatherApp/Presenter/WeatherPresenter.swift; sourceTree = "<group>"; };
 		B8786872292AA48100B5C258 /* DailyTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTableCell.swift; sourceTree = "<group>"; };
 		B8786875292AAC8C00B5C258 /* Constraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constraints.swift; sourceTree = "<group>"; };
 		B885D1672931019D002BFA6B /* TenDaysForecastHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TenDaysForecastHeader.swift; path = WeatherForecast/View/Headers/TenDaysForecastHeader.swift; sourceTree = SOURCE_ROOT; };
@@ -94,9 +94,9 @@
 		B8786831292A911000B5C258 /* WeatherForecast */ = {
 			isa = PBXGroup;
 			children = (
+				B8424CEC2934897100D07D3B /* Assembly.swift */,
 				B8786832292A911000B5C258 /* AppDelegate.swift */,
 				B8786834292A911000B5C258 /* SceneDelegate.swift */,
-				B8786869292A955600B5C258 /* Assembly.swift */,
 				B878685E292A94E600B5C258 /* Presenter */,
 				B8786860292A94FB00B5C258 /* Model */,
 				B878685D292A94D500B5C258 /* View */,
@@ -126,7 +126,7 @@
 		B878685E292A94E600B5C258 /* Presenter */ = {
 			isa = PBXGroup;
 			children = (
-				B878686F292A959200B5C258 /* WeatherPresenter.swift */,
+				B8424CEE2934898D00D07D3B /* WeatherPresenter.swift */,
 			);
 			path = Presenter;
 			sourceTree = "<group>";
@@ -134,8 +134,8 @@
 		B8786860292A94FB00B5C258 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				B8424CEA2934895500D07D3B /* WeatherDataManager.swift */,
 				B88B013A292B8BAD00A7CD48 /* WeatherData.swift */,
-				B878686C292A958400B5C258 /* WeatherDataManager.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -266,20 +266,20 @@
 				B88B013F292BE75900A7CD48 /* TimeForecastCollectionViewCell.swift in Sources */,
 				B885D1682931019D002BFA6B /* TenDaysForecastHeader.swift in Sources */,
 				B885D16E29314211002BFA6B /* Images.swift in Sources */,
+				B8424CEF2934898D00D07D3B /* WeatherPresenter.swift in Sources */,
 				B8786867292A953800B5C258 /* WeatherViewController.swift in Sources */,
 				B8786868292A953800B5C258 /* WeatherViewOutput.swift in Sources */,
-				B878686A292A955600B5C258 /* Assembly.swift in Sources */,
+				B8424CEB2934895500D07D3B /* WeatherDataManager.swift in Sources */,
 				B885D16C29312C64002BFA6B /* Sizes.swift in Sources */,
 				B8786876292AAC8C00B5C258 /* Constraints.swift in Sources */,
+				B8424CED2934897100D07D3B /* Assembly.swift in Sources */,
 				B88B0143292CBC4E00A7CD48 /* TimeForecastTableHeader.swift in Sources */,
 				B88B0145292CBF6900A7CD48 /* TimeForecastTableViewCell.swift in Sources */,
 				B8786833292A911000B5C258 /* AppDelegate.swift in Sources */,
-				B8786870292A959200B5C258 /* WeatherPresenter.swift in Sources */,
 				B8786835292A911000B5C258 /* SceneDelegate.swift in Sources */,
 				B88B0147292E1D9700A7CD48 /* Colors.swift in Sources */,
 				B8786873292AA48200B5C258 /* DailyTableCell.swift in Sources */,
 				B88B013B292B8BAD00A7CD48 /* WeatherData.swift in Sources */,
-				B878686E292A958400B5C258 /* WeatherDataManager.swift in Sources */,
 				B8786866292A953800B5C258 /* WeatherView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - WeatherDataNew
+// MARK: - WeatherData
 struct WeatherData: Codable {
     let city, temperature, weatherDataNewDescription: String
     let weatherPerDay: [WeatherPerDay]

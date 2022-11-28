@@ -9,7 +9,6 @@ import Foundation
 
 
 protocol DataManager {
-    func obtainWeatherData() -> [Int]
     func parseJson(filename fileName: String) -> WeatherData?
 }
 
