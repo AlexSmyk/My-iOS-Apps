@@ -16,8 +16,8 @@ class WeatherViewController: UIViewController, WeatherViewDelegate, WeatherViewI
         view = mainView
     }
 // функция setGradientBackground() устанавливает градиент на картинку, и данная функция закомментирована,
-// тк у меня есть вопрос по данному светло-голубому градиенту, тк в макете данный
-// градиент серый, а по данным из макета - светло голубой
+// тк у меня есть вопрос по данному светло-голубому градиенту: внешне в макете данный
+// градиент серый и общий фон темно-серый, а по данным из макета он устанавливается как светло-голубой
     override func viewWillAppear(_ animated: Bool) {
 //        setGradientBackground()
         view.backgroundColor = UIColor(patternImage: UIImage(named: "background.jpeg")!)
